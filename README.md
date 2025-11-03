@@ -1,4 +1,14 @@
-## Tampilan Aplikasi
-[Tampilan Home]![alt text](img.jpg)
-[Tampilan Daftar Game]![alt text](img2.jpg)
-[Tampilan Deskripsi]![alt text](img1.jpg)
+## 📱 Tampilan Aplikasi
+
+### 🏠 Tampilan Home
+![Tampilan Home](img.jpg)
+
+---
+
+### 🎮 Tampilan Daftar Game
+![Tampilan Daftar Game](img2.jpg)
+
+---
+
+### 🧾 Tampilan Deskripsi
+![Tampilan Deskripsi](img1.jpg)
