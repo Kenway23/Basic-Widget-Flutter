@@ -1,3 +1,8 @@
+## BIODATA
+NAMA : Rifki Muhamad Fauzi
+NIM : 23552011078
+KELA : TIF 23 CID A
+
 ## 📱 Tampilan Aplikasi
 
 ### 🏠 Tampilan Home
