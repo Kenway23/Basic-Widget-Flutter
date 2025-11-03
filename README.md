@@ -1,4 +1,4 @@
 ## Tampilan Aplikasi
-[Tampilan Login]![alt text](image1.jpg)
-[Tampilan Akademik]![alt text](image2.jpg)
-[Tampilan Mahasiswa]![alt text](image3.jpg)
+[Tampilan Home]![alt text](img.jpg)
+[Tampilan Daftar Game]![alt text](img3.jpg)
+[Tampilan Deskripsi]![alt text](img1.jpg)
