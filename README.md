@@ -1,6 +1,6 @@
 ## BIODATA
 <ul>
-<il>NAMA : Rifki Muhamad Fauzi</il>
+<li>NAMA : Rifki Muhamad Fauzi</li>
 <li>NIM : 23552011078</li>
 <li>KELAS : TIF 23 CID A</li>
 </ul>
